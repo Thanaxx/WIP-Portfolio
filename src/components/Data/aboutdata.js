@@ -47,12 +47,4 @@ export const skillset = [
         label: 'Sass',
         description: 'Sass is an extension of CSS that enables you to use things like variables, nested rules, inline imports and more. It also helps to keep things organized and allows you to create style sheets faster.'
     },
-
-        {
-        id: 8,
-        image: '/myimages/languages/sass.svg',
-        label: 'LASTTCOMMIT',
-        description: 'Sass is an extension of CSS that enables you to use things like variables, nested rules, inline imports and more. It also helps to keep things organized and allows you to create style sheets faster.'
-    }
-
 ]
