@@ -66,6 +66,6 @@ export const proj = [
         def: 'An informative website that not only helps you learn and comprehend the value of cryptocurrency by providing educational blogs for users to read, but also provides the most up-to-date crypto exchange rate.',
         link: 'View Project',
         image: '/myimages/Projects/cryptoWeb.png',
-        mainpath: 'https://polite-puppy-dd62a2.netlify.app/'
+        mainpath: 'https://effortless-kheer-3ee7c5.netlify.app/blogs'
     }
 ]
