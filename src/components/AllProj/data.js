@@ -46,7 +46,7 @@ export const proj = [
         def: 'A static website of the mucipality of Badiangan, Iloilo that showcases their tradition, government, people, beautiful places and current news which can be access conveniently ',
         link: 'View Project',
         image: '/myimages/Projects/badiangan.png',
-        mainpath: 'https://app.netlify.com/sites/festive-cori-5ed5e3'
+        mainpath: 'https://eloquent-shockley-854149.netlify.app/'
     },
 
     {
@@ -66,6 +66,6 @@ export const proj = [
         def: 'An informative website that not only helps you learn and comprehend the value of cryptocurrency by providing educational blogs for users to read, but also provides the most up-to-date crypto exchange rate.',
         link: 'View Project',
         image: '/myimages/Projects/cryptoWeb.png',
-        mainpath: 'https://effortless-kheer-3ee7c5.netlify.app/blogs'
+        mainpath: 'https://effortless-kheer-3ee7c5.netlify.app/'
     }
 ]
